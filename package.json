@@ -1,0 +1,12 @@
+{
+  "name": "skills-write-javascript-actions",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@actions/core": "^3.0.0",
+    "@vercel/ncc": "^0.38.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
